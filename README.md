@@ -25,10 +25,10 @@ Here are Tableau visualizations from this course.
 
 ## Module-3: Advanced table Calculations
 ![DBCT Coal Terminal - Summary](./pics/Tableau-2018-Advanced-M3-Pic1.png)
-*DBCT Coal Terminal - Overall Summary*
+*DBCT Coal Terminal - Machine Utilization Overall Summary*
 
 ![DBCT Coal Terminal - Summary](./pics/Tableau-2018-Advanced-M3-Pic2.png)
-*DBCT Coal Terminal - Reclaimer-1*
+*DBCT Coal Terminal - Machine Utilization Reclaimer-1*
 
 
 ## Module-4: Advanced Data Prep + Analytics in Tableau
@@ -44,10 +44,10 @@ Here are Tableau visualizations from this course.
 
 ## Module-5: Creating Animations in Tableau
 ![World Demographics Analysis Dashboard - 1960](./pics/Tableau-2018-Advanced-M5-Pic1.png)
-*[World Demographics Analysis Dashboard - 1960*
+*World Demographics Analysis Dashboard - 1960*
 
 ![World Demographics Analysis Dashboard - 2013](./pics/Tableau-2018-Advanced-M5-Pic2.png)
-*[World Demographics Analysis Dashboard - 2013*
+*World Demographics Analysis Dashboard - 2013*
 
 ![World Demographics Analysis Dashboard - Historical change (China, India, US)](./pics/Tableau-2018-Advanced-M5-Pic3.png)
 *[World Demographics Analysis Dashboard - Historical change (China, India, US)*
